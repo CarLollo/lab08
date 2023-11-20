@@ -1,7 +1,5 @@
 package it.unibo.deathnote.api;
 
-import it.unibo.deathnote.api.DeathNote;
-
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Objects;
